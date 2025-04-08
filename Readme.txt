@@ -1,6 +1,4 @@
-Here's a sample `README.md` file tailored to your machine learning project titled **"Cosmic Classifier"**, structured for clarity and professionalism:
 
----
 
 # 🌌 Cosmic Classifier
 
